@@ -53,13 +53,6 @@ python installa_traduzione.py --stato            controlla se è installata
 python installa_traduzione.py "percorso\del\gioco"  se il gioco non viene trovato
 ```
 
-## Errori nella traduzione
-
-Se trovi errori o frasi che suonano male, apri una segnalazione nella sezione **Issues**, possibilmente con uno screenshot.
-
-Per chi vuole proporre correzioni direttamente: `strumenti/locres_csv.py` esporta i testi in un CSV modificabile e li reimporta
-(istruzioni all'inizio del file).
-
 ## Come funziona
 
 Tutto il testo del gioco sta in un file, `FFRS/Content/Localization/Game/en/Game.locres`, dentro `FFRS-Windows.pak`
